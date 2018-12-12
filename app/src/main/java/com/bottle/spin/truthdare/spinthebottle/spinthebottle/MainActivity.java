@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
     private Random random=new Random();
     private int lastDir;
     private boolean spinning;
-
+    //project
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
